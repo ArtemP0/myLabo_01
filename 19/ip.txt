@@ -1,0 +1,42 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Radmin VPN:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : fdfd::1ab4:b168
+   Link-local IPv6 Address . . . . . : fe80::a02a:dfaa:e18a:7abf%4
+   IPv4 Address. . . . . . . . . . . : 26.180.177.104
+   Subnet Mask . . . . . . . . . . . : 255.0.0.0
+   Default Gateway . . . . . . . . . : 26.0.0.1
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::3be2:9d57:8f42:3fed%18
+   IPv4 Address. . . . . . . . . . . : 192.168.31.180
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.31.1
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter П?дключення через локальну мережу* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter П?дключення через локальну мережу* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2001:0:284a:364:2007:1e85:a281:bc8c
+   Link-local IPv6 Address . . . . . : fe80::2007:1e85:a281:bc8c%13
+   Default Gateway . . . . . . . . . : 

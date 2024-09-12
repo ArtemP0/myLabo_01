@@ -1,0 +1,16 @@
+ Volume in drive X has no label.
+ Volume Serial Number is 30B0-9636
+
+ Directory of X:\
+
+12.09.2024  00:55    <DIR>          .
+12.09.2024  00:23                33 author.txt
+12.09.2024  00:25    <DIR>          Children
+12.09.2024  00:33    <DIR>          git
+12.09.2024  00:53             1ÿ431 ip.txt
+12.09.2024  00:25    <DIR>          Parents
+12.09.2024  00:02               166 tree.txt
+12.09.2024  00:50                24 variant.txt
+12.09.2024  00:55                 0 zmist.txt
+               5 File(s)          1ÿ654 bytes
+               4 Dir(s)  396ÿ399ÿ210ÿ496 bytes free

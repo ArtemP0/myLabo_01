@@ -1,0 +1,11 @@
+Folder PATH listing
+Volume serial number is 30B0-9636
+X:\
++---Children
+¦   +---Alice
+¦   +---John
+¦   L---Mia
++---git
+L---Parents
+    +---Bob
+    L---Mary
